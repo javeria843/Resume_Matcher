@@ -5,3 +5,5 @@ sentence-transformers
 nltk
 spacy
 PyPDF2
+PyMuPDF
+pandas
