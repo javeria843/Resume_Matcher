@@ -1,0 +1,59 @@
+Error reading PDF: module 'fitz' has no attribute ,Full job description Searching for the position of,0.09810635447502136,"Gemini Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-1.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 15
+}
+, links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, retry_delay {
+  seconds: 35
+}
+]","Gemini Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-1.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 15
+}
+, links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, retry_delay {
+  seconds: 34
+}
+]"
+Error reading PDF: module 'fitz' has no attribute ,Full job description Searching for the position of,0.09810635447502136,"Based solely on the job description and the error message about the resume, here are 5 possible missing skills the resume *might* lack, that are implied by the job description:
+
+1. **CRM Proficiency:**  The job description explicitly mentions proficiency in CRM systems.  The resume likely needs to demonstrate experience or at least familiarity with a specific CRM (e.g., Salesforce, Zoho, etc.).
+
+
+2. **Phone System Proficiency:** Similar to CRM, the job description emphasizes phone system use.  The resume needs to indicate experience using call center software or similar phone systems.
+
+
+3. **Customer Service Experience:** The job description emphasizes resolving customer issues and escalating complex cases.  The resume should showcase examples of past customer service interactions, even if it was in a non-outbound call setting.
+
+
+4. **Outbound Call Experience (or equivalent):**  While not explicitly stated, the job requires outbound calls to US clients.  The resume should show some experience with making outbound calls, cold calling, or similar activities if the applicant doesn't have direct experience.
+
+
+5. **Understanding of Target-Driven Environments:** The need for ""fast-paced, target-driven"" environments suggests the position requires a knack for goal setting, working in teams or alone towards metrics, and being results-oriented. The resume should show some evidence of handling pressure or goals.
+
+
+**Important Note:** Without the resume content, these are just educated guesses.  If the applicant has *relevant* experience in one of these areas, but isn't directly stating it in the resume, this might be misleading.  The resume may need to be reformatted and highlighted to emphasize these key abilities.","Unfortunately, I cannot suggest suitable job roles without knowing the content of the resume.  The error message ""Error reading PDF: module 'fitz' has no attribute 'open'"" indicates a problem with accessing the resume file, likely a compatibility issue with the PDF library used.  Please provide the resume in a different format (e.g., text) or describe its content."
