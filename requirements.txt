@@ -1,3 +1,7 @@
-pip install streamlit sentence-transformers google-generativeai python-dotenv pymupdf spacy nltk
-python -m nltk.downloader punkt stopwords
-python -m spacy download en_core_web_sm
+streamlit
+python-dotenv
+google-generativeai
+sentence-transformers
+nltk
+spacy
+PyPDF2
