@@ -12,10 +12,14 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 
 # ========== Initial Setup ==========
+import spacy.cli
+spacy.cli.download("en_core_web_sm")  # 💡 Ensures model is available
+
 nltk.download("punkt")
 nltk.download("stopwords")
 nlp_spacy = spacy.load("en_core_web_sm")
 model_embed = SentenceTransformer("all-MiniLM-L6-v2")
+
 
 # ✅ Load Gemini API key from .env
 load_dotenv()
@@ -120,3 +124,4 @@ try:
         st.info("No history found yet. Upload resumes and job descriptions to begin!")
 except Exception as e:
     st.error(f"Error reading history: {e}")
+
