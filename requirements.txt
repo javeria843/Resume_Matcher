@@ -1,9 +1,9 @@
 streamlit
+spacy
+nltk
+pymupdf
+sentence-transformers
+pandas
 python-dotenv
 google-generativeai
-sentence-transformers
-nltk
-spacy
-PyPDF2
-PyMuPDF
-pandas
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
