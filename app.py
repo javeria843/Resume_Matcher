@@ -14,7 +14,6 @@ from dotenv import load_dotenv
 # ========== Initial Setup ==========
 nltk.download("punkt")
 nltk.download("stopwords")
-nlp_spacy = spacy.load("en_core_web_sm")
 model_embed = SentenceTransformer("all-MiniLM-L6-v2")
 
 # ✅ Load Gemini API key from .env
