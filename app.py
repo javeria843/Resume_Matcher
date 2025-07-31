@@ -1,5 +1,4 @@
-# main.py
-
+# ✅ main.py
 import os
 import csv
 import re
@@ -15,7 +14,7 @@ from dotenv import load_dotenv
 # ========== Initial Setup ==========
 nltk.download("punkt")
 nltk.download("stopwords")
-nlp_spacy = spacy.load("en_core_web_sm")  # Model preinstalled via requirements.txt
+nlp_spacy = spacy.load("en_core_web_sm")
 model_embed = SentenceTransformer("all-MiniLM-L6-v2")
 
 # ✅ Load Gemini API key from .env
@@ -121,3 +120,4 @@ try:
         st.info("No history found yet. Upload resumes and job descriptions to begin!")
 except Exception as e:
     st.error(f"Error reading history: {e}")
+
