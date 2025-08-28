@@ -89,4 +89,6 @@ Add authentication for user-specific history
 
 🙋‍♀️ About the Creator
 Built by Javeria Iqbal, an AI enthusiast from Karachi, Pakistan, passionate about making machine learning accessible and impactful. Currently pursuing a Bachelor's in AI at DUET, with hands-on experience in ML pipelines, deployment, and global-ready portfolio building.
+
+
 DEPLOYED APP:https://projectfolder-tjxpoeqh57wwfgrmz6defd.streamlit.app/
